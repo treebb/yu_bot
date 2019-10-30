@@ -1,2 +1,2 @@
-# yu_bot
-bot
+# yuuki!
+A BOT of LINE
